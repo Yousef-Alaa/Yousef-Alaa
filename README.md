@@ -25,10 +25,12 @@
 <p align="center">
     
 - **Programming Languages:**
- • C++
- • Java
- • JavaScript
- • PHP (Basics)
+    <ul>
+        <li>C++</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>PHP (Basics)</li>
+    </ul>
 
 <br />
 
